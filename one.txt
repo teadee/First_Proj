@@ -1,0 +1,3 @@
+djfksfkjsfks
+
+This is a file i'm making with vim in the terminal!
